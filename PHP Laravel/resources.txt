@@ -1,0 +1,18 @@
+Resources
+https://laravel.com/docs/10.x/installation
+
+PHP Laravel 6.0 Part 1/5 (Installation & Database Set-up) [ TAGALOG ]
+https://www.youtube.com/watch?v=WvSi4emFDP0&list=PLKyjE37ORK3JyJMMI4lu45JFjZVSNNGaq
+
+PHP Laravel 6.0 Part 2/5 (Creating a Controller and Model ) [TAGALOG]
+https://www.youtube.com/watch?v=VPyAZ1DakHE&list=PLKyjE37ORK3JyJMMI4lu45JFjZVSNNGaq&index=2
+
+Resources
+https://laravel.com/docs/10.x/installation
+
+PHP Laravel 6.0 Part 1/5 (Installation & Database Set-up) [ TAGALOG ]
+https://www.youtube.com/watch?v=WvSi4emFDP0&list=PLKyjE37ORK3JyJMMI4lu45JFjZVSNNGaq
+
+PHP Laravel 6.0 Part 2/5 (Creating a Controller and Model ) [TAGALOG]
+https://www.youtube.com/watch?v=VPyAZ1DakHE&list=PLKyjE37ORK3JyJMMI4lu45JFjZVSNNGaq&index=2
+

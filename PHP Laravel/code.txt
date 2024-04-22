@@ -1,0 +1,15 @@
+Creating a Laravel Project with Login and Registration Page
+
+composer create-project laravel/laravel example-app
+
+php artisan serve
+php artisan migrate
+
+
+composer require laravel/ui
+php artisan ui vue --auth
+
+npm install
+npm run dev
+
+
